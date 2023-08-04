@@ -43,3 +43,6 @@ python filename.py
 
 ## Results
 The trained Random Forest Classifier achieved an accuracy of approximately 99.96% in detecting credit card fraud. However, it is essential to consider other metrics such as precision, recall, and F1-score, especially in imbalanced datasets.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/melita-celia/credit-card-fraud-detection/blob/main/LICENSE) file for details.
